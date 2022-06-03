@@ -1,0 +1,1 @@
+Create a BCD encoder and 7segment encoder to output the binary on switches sw3-sw0 onto hex0 and sw7-sw4 onto hex1.
